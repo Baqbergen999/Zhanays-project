@@ -144,6 +144,7 @@ export function Contact() {
           font-family: inherit;
           transition: all 0.3s;
           background: #f9fafb;
+          color: #1a1a2e;
         }
 
         .form-input:focus,
